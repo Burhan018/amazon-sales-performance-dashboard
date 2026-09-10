@@ -2,7 +2,7 @@
 
 An executive-level Power BI analytics solution developed to evaluate global sales performance, track profitability drivers, and optimize logistics metrics across $12.64M in Amazon order data.
 
-![Dashboard Preview](Amazon_Sales_Dashboard.png)
+![Dashboard Preview](Amazon_repo.png)
 
 ## Technical Pipeline
 * **Excel:** Initial dataset prep, field structural validation, and schema verification.
